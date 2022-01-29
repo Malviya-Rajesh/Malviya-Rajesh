@@ -1,7 +1,9 @@
-### Hi there 👋
-🌱 I’m currently learning Machine Learning | Deep Learning </n>
-💬 Ask me about ant thing
-📫 How to reach me: 01rajeshnmalviya@gmail.com
+### 👋 Hi, I’m Rajesh Malviya
+- 💬 Ask me about ant thing
+- 👋 Hi, I’m @MalviyaRex
+- 👀 I’m interested in Machine Learning | Deep Learning | Data Scientist 
+- 🌱 I’m currently learning: Machine Learning | Deep Learning 
+- 📫 How to reach me: 01rajeshnmalviya@gmail.com
 <!--
 **Malviya-Rajesh/Malviya-Rajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
