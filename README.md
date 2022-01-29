@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Rajesh Malviya
 - 💬 Ask me about any thing
-- 👋 Hi, I’m @MalviyaRex
 - 👀 I’m interested in Machine Learning | Deep Learning | Data Scientist 
 - 🌱 I’m currently learning: Machine Learning | Deep Learning 
 - 📫 Mail me @ : 01rajeshnmalviya@gmail.com
