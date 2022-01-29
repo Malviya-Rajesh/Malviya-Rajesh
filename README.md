@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @MalviyaRex
 - 👀 I’m interested in Machine Learning | Deep Learning | Data Scientist 
 - 🌱 I’m currently learning: Machine Learning | Deep Learning 
-- 📫 How to reach me: 01rajeshnmalviya@gmail.com
+- 📫 Mail me @ : 01rajeshnmalviya@gmail.com
 <!--
 **Malviya-Rajesh/Malviya-Rajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
